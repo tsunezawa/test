@@ -4,4 +4,4 @@ alert(number);
 if(1==12){
 
 }
-delete
+var test = "test追加";
